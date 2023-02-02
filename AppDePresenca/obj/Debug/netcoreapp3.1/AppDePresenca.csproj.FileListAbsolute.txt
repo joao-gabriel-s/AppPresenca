@@ -1,0 +1,90 @@
+C:\Users\Bigode\source\repos\AppDePresenca\AppDePresenca\obj\Debug\netcoreapp3.1\AppDePresenca.csproj.AssemblyReference.cache
+C:\Users\Bigode\source\repos\AppDePresenca\AppDePresenca\obj\Debug\netcoreapp3.1\formspresencaa.Form1.resources
+C:\Users\Bigode\source\repos\AppDePresenca\AppDePresenca\obj\Debug\netcoreapp3.1\AppDePresenca.Properties.Resources.resources
+C:\Users\Bigode\source\repos\AppDePresenca\AppDePresenca\obj\Debug\netcoreapp3.1\AppDePresenca.csproj.GenerateResource.cache
+C:\Users\Bigode\source\repos\AppDePresenca\AppDePresenca\obj\Debug\netcoreapp3.1\AppDePresenca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bigode\source\repos\AppDePresenca\AppDePresenca\obj\Debug\netcoreapp3.1\AppDePresenca.AssemblyInfoInputs.cache
+C:\Users\Bigode\source\repos\AppDePresenca\AppDePresenca\obj\Debug\netcoreapp3.1\AppDePresenca.AssemblyInfo.cs
+C:\Users\Bigode\source\repos\AppDePresenca\AppDePresenca\obj\Debug\netcoreapp3.1\AppDePresenca.csproj.CoreCompileInputs.cache
+C:\Users\Bigode\source\repos\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\AppDePresenca.exe
+C:\Users\Bigode\source\repos\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\AppDePresenca.dll.config
+C:\Users\Bigode\source\repos\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\AppDePresenca.deps.json
+C:\Users\Bigode\source\repos\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\AppDePresenca.runtimeconfig.json
+C:\Users\Bigode\source\repos\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\AppDePresenca.runtimeconfig.dev.json
+C:\Users\Bigode\source\repos\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\AppDePresenca.dll
+C:\Users\Bigode\source\repos\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\AppDePresenca.pdb
+C:\Users\Bigode\source\repos\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\Bigode\source\repos\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\Bigode\source\repos\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\Dapper.SqlBuilder.dll
+C:\Users\Bigode\source\repos\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\Bigode\source\repos\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\Bigode\source\repos\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Bigode\source\repos\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Bigode\source\repos\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Bigode\source\repos\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Bigode\source\repos\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Bigode\source\repos\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Bigode\source\repos\AppDePresenca\AppDePresenca\obj\Debug\netcoreapp3.1\AppDePresenca.csproj.CopyComplete
+C:\Users\Bigode\source\repos\AppDePresenca\AppDePresenca\obj\Debug\netcoreapp3.1\AppDePresenca.dll
+C:\Users\Bigode\source\repos\AppDePresenca\AppDePresenca\obj\Debug\netcoreapp3.1\AppDePresenca.pdb
+C:\Users\Bigode\source\repos\AppDePresenca\AppDePresenca\obj\Debug\netcoreapp3.1\AppDePresenca.genruntimeconfig.cache
+C:\Users\Bigode\Desktop\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\AppDePresenca.exe
+C:\Users\Bigode\Desktop\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\AppDePresenca.dll.config
+C:\Users\Bigode\Desktop\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\AppDePresenca.deps.json
+C:\Users\Bigode\Desktop\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\AppDePresenca.runtimeconfig.json
+C:\Users\Bigode\Desktop\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\AppDePresenca.runtimeconfig.dev.json
+C:\Users\Bigode\Desktop\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\AppDePresenca.dll
+C:\Users\Bigode\Desktop\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\AppDePresenca.pdb
+C:\Users\Bigode\Desktop\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\Bigode\Desktop\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\Bigode\Desktop\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\Dapper.SqlBuilder.dll
+C:\Users\Bigode\Desktop\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\Bigode\Desktop\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\Bigode\Desktop\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Bigode\Desktop\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Bigode\Desktop\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Bigode\Desktop\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Bigode\Desktop\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Bigode\Desktop\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Bigode\Desktop\AppDePresenca\AppDePresenca\obj\Debug\netcoreapp3.1\AppDePresenca.csproj.AssemblyReference.cache
+C:\Users\Bigode\Desktop\AppDePresenca\AppDePresenca\obj\Debug\netcoreapp3.1\formspresencaa.Form1.resources
+C:\Users\Bigode\Desktop\AppDePresenca\AppDePresenca\obj\Debug\netcoreapp3.1\AppDePresenca.Properties.Resources.resources
+C:\Users\Bigode\Desktop\AppDePresenca\AppDePresenca\obj\Debug\netcoreapp3.1\AppDePresenca.csproj.GenerateResource.cache
+C:\Users\Bigode\Desktop\AppDePresenca\AppDePresenca\obj\Debug\netcoreapp3.1\AppDePresenca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bigode\Desktop\AppDePresenca\AppDePresenca\obj\Debug\netcoreapp3.1\AppDePresenca.AssemblyInfoInputs.cache
+C:\Users\Bigode\Desktop\AppDePresenca\AppDePresenca\obj\Debug\netcoreapp3.1\AppDePresenca.AssemblyInfo.cs
+C:\Users\Bigode\Desktop\AppDePresenca\AppDePresenca\obj\Debug\netcoreapp3.1\AppDePresenca.csproj.CoreCompileInputs.cache
+C:\Users\Bigode\Desktop\AppDePresenca\AppDePresenca\obj\Debug\netcoreapp3.1\AppDePresenca.csproj.CopyComplete
+C:\Users\Bigode\Desktop\AppDePresenca\AppDePresenca\obj\Debug\netcoreapp3.1\AppDePresenca.dll
+C:\Users\Bigode\Desktop\AppDePresenca\AppDePresenca\obj\Debug\netcoreapp3.1\AppDePresenca.pdb
+C:\Users\Bigode\Desktop\AppDePresenca\AppDePresenca\obj\Debug\netcoreapp3.1\AppDePresenca.genruntimeconfig.cache
+C:\Users\Bigode\Desktop\Code\Registro de Presença\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\AppDePresenca.exe
+C:\Users\Bigode\Desktop\Code\Registro de Presença\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\AppDePresenca.dll.config
+C:\Users\Bigode\Desktop\Code\Registro de Presença\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\AppDePresenca.deps.json
+C:\Users\Bigode\Desktop\Code\Registro de Presença\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\AppDePresenca.runtimeconfig.json
+C:\Users\Bigode\Desktop\Code\Registro de Presença\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\AppDePresenca.runtimeconfig.dev.json
+C:\Users\Bigode\Desktop\Code\Registro de Presença\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\AppDePresenca.dll
+C:\Users\Bigode\Desktop\Code\Registro de Presença\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\AppDePresenca.pdb
+C:\Users\Bigode\Desktop\Code\Registro de Presença\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\Bigode\Desktop\Code\Registro de Presença\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\Bigode\Desktop\Code\Registro de Presença\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\Dapper.SqlBuilder.dll
+C:\Users\Bigode\Desktop\Code\Registro de Presença\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\Bigode\Desktop\Code\Registro de Presença\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\Bigode\Desktop\Code\Registro de Presença\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Bigode\Desktop\Code\Registro de Presença\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Bigode\Desktop\Code\Registro de Presença\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Bigode\Desktop\Code\Registro de Presença\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Bigode\Desktop\Code\Registro de Presença\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Bigode\Desktop\Code\Registro de Presença\AppDePresenca\AppDePresenca\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Bigode\Desktop\Code\Registro de Presença\AppDePresenca\AppDePresenca\obj\Debug\netcoreapp3.1\AppDePresenca.csproj.AssemblyReference.cache
+C:\Users\Bigode\Desktop\Code\Registro de Presença\AppDePresenca\AppDePresenca\obj\Debug\netcoreapp3.1\formspresencaa.Form1.resources
+C:\Users\Bigode\Desktop\Code\Registro de Presença\AppDePresenca\AppDePresenca\obj\Debug\netcoreapp3.1\AppDePresenca.Properties.Resources.resources
+C:\Users\Bigode\Desktop\Code\Registro de Presença\AppDePresenca\AppDePresenca\obj\Debug\netcoreapp3.1\AppDePresenca.csproj.GenerateResource.cache
+C:\Users\Bigode\Desktop\Code\Registro de Presença\AppDePresenca\AppDePresenca\obj\Debug\netcoreapp3.1\AppDePresenca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bigode\Desktop\Code\Registro de Presença\AppDePresenca\AppDePresenca\obj\Debug\netcoreapp3.1\AppDePresenca.AssemblyInfoInputs.cache
+C:\Users\Bigode\Desktop\Code\Registro de Presença\AppDePresenca\AppDePresenca\obj\Debug\netcoreapp3.1\AppDePresenca.AssemblyInfo.cs
+C:\Users\Bigode\Desktop\Code\Registro de Presença\AppDePresenca\AppDePresenca\obj\Debug\netcoreapp3.1\AppDePresenca.csproj.CoreCompileInputs.cache
+C:\Users\Bigode\Desktop\Code\Registro de Presença\AppDePresenca\AppDePresenca\obj\Debug\netcoreapp3.1\AppDePresenca.csproj.CopyComplete
+C:\Users\Bigode\Desktop\Code\Registro de Presença\AppDePresenca\AppDePresenca\obj\Debug\netcoreapp3.1\AppDePresenca.dll
+C:\Users\Bigode\Desktop\Code\Registro de Presença\AppDePresenca\AppDePresenca\obj\Debug\netcoreapp3.1\AppDePresenca.pdb
+C:\Users\Bigode\Desktop\Code\Registro de Presença\AppDePresenca\AppDePresenca\obj\Debug\netcoreapp3.1\AppDePresenca.genruntimeconfig.cache
