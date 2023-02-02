@@ -1,6 +1,6 @@
 # App de Presença (EM DESENVOLVIMENTO)
 
--Um App usando Windows Forms que consegue armazenar informações sobre alunos, turmas, presenças e criar uma planilha no Excel.
+-Um App usando Windows Forms que consegue armazenar informações sobre alunos, turmas, presenças e criar uma planilha no Excel.<br>
 -Falta melhorar algumas coisas.
 
 # Vídeo 📸
